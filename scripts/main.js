@@ -4374,7 +4374,7 @@
     let startPromise = null;
     const testAdUnitsiOS = {
         "banner": "ca-app-pub-3940256099942544/2934735716",
-        "interstitial": "ca-app-pub-3940256099942544/4411468910",
+        "interstitial": "ca-pub-8586809919496122",
         "rewarded": "ca-app-pub-3940256099942544/1712485313",
         "rewardedInterstitial": "ca-app-pub-3940256099942544/6978759866"
     };
